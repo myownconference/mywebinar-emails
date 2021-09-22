@@ -1,3 +1,3 @@
 Today at <b>__webinar_date__</b>, the <b>__webinar_name__</b> webinar is scheduled to begin. I would suggest that you enter the webinar room now to ensure that you are ready to participate.
 
-Your login link __link_guest__
+<a href="__link_guest__">Your login link</a>
