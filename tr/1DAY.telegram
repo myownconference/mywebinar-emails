@@ -1,7 +1,7 @@
-On <b>__webinar_date__</b>, the <b>__webinar_name__</b> webinar is scheduled to begin.
+<b>__webinar_date__</b> tarihinde, <b>__webinar_name__</b> web seminerinin başlaması planlanıyor.
 
-<a href="__link_guest__">Your personal webinar link</a>
+<a href="__link_guest__">Kişisel web semineri bağlantınız</a>
 
-We'll send you a webinar invitation link an hour before the webinar starts.
+Web semineri başlamadan bir saat önce size bir web semineri davet bağlantısı göndereceğiz.
 
-See you at the webinar!
+Web seminerinde görüşürüz!
