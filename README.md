@@ -1,6 +1,6 @@
-# Шаблоны писeм
+# Email Templates
 
-Шаблоны писeм для новой панeли управлeния.
+Templates for email and telegram notifications, emails sign and logo.
 
 ---
 
