@@ -1,3 +1,5 @@
 Šiandien, <b>__webinar_date__</b>, planuojama pradėti internetinį seminarą <b>__webinar_name__</b>. Siūlyčiau dabar įeiti į internetinį seminarą, kad įsitikintumėte, jog esate pasirengęs dalyvauti.
 
+Įėjimas atidaromas __before_start_time__ minučių prieš pradedant
+
 <a href="__link_guest__">Jūsų prisijungimo nuoroda</a>

@@ -1,3 +1,5 @@
 Bugün <b>__webinar_date__</b> tarihinde, <b>__webinar_name__</b> web seminerinin başlaması planlanıyor. Katılmaya hazır olduğunuzdan emin olmak için şimdi web semineri odasına girmenizi öneririm.
 
+Giriş, başlamadan __before_start_time__ dakika önce açılır
+
 <a href="__link_guest__">Giriş bağlantınız</a>

@@ -1,3 +1,5 @@
 Heute um <b>__webinar_date__</b> soll das Webinar <b>__webinar_name__</b> beginnen. Ich würde vorschlagen, dass Sie jetzt den Webinarraum betreten, um sicherzustellen, dass Sie bereit für die Teilnahme sind.
 
+Der Eingang öffnet sich bei __before_start_time__ Minuten vor dem Anfang
+
 <a href="__link_guest__">Ihr Login-Link</a>

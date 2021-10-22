@@ -1,3 +1,5 @@
 Hoje, às <b>__webinar_date__</b>, o webinar <b>__webinar_name__</b> está agendado para começar. Eu sugiro que você entre na sala de webinar agora para garantir que está pronto para participar.
 
+A entrada no webinar será possível __before_start_time__ minutos antes do seu início
+
 <a href="__link_guest__">Seu link de login</a>

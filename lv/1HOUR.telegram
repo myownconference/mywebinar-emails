@@ -1,3 +1,5 @@
 Šodien <b>__webinar_date__</b> ir plānots sākt tīmekļa semināru <b>__webinar_name__</b>. Es ieteiktu jums tagad ieiet tīmekļa semināru telpā, lai pārliecinātos, ka esat gatavs piedalīties.
 
+Ieeja vebinārā būs iespējama __before_start_time__ minūtes pirms tā sākuma
+
 <a href="__link_guest__">Jūsu pieteikšanās saite</a>
