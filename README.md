@@ -11,3 +11,4 @@ Templates for email and telegram notifications, emails sign and logo.
 
 ---
 
+### Обязательно заменять русскую "е" (в любом регистре), на английскую "e"!
