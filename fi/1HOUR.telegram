@@ -1,5 +1,5 @@
 Tänään <b>__webinar_date__</b>, <b>__webinar_name__</b> -verkkoseminaarin on määrä alkaa. Ehdotan, että tulet webinaarihuoneeseen varmistaaksesi, että olet valmis osallistumaan.
 
-Sisäänpääsy webinaariin on mahdollista __before_start_time__ minuuttia ennen sen alkua
+Sisäänpääsy webinaariin on mahdollista <b>__before_start_time__</b> minuuttia ennen sen alkua
 
 <a href="__link_guest__">Kirjautumislinkkisi</a>

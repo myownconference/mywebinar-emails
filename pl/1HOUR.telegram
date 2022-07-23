@@ -4,6 +4,6 @@ Webinar rozpocznie się o godzinie <b>__webinar_date__</b>.
 
 Już teraz możesz wejść do pokoju webinarowego i usiąść wygodnie.
 
-Wejście na webinar będzie możliwe __before_start_time__ minut przed startem.
+Wejście na webinar będzie możliwe <b>__before_start_time__</b> minut przed startem.
 
 <a href="__link_guest__">Wejdź na webinar</a>

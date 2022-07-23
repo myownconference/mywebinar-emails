@@ -1,5 +1,5 @@
 Täna kell <b>__webinar_date__</b> on kavandatud veebiseminari <b>__webinar_name__</b> algus. Soovitan teil siseneda veebiseminariruumi, et veenduda, et olete valmis osalema.
 
-Sissepääs avaneb __before_start_time__ minutit enne algust
+Sissepääs avaneb <b>__before_start_time__</b> minutit enne algust
 
 <a href="__link_guest__">Teie sisselogimislink</a>

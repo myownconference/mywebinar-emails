@@ -4,6 +4,6 @@ Em <b>__webinar_date__</b>, o webinar <b>__webinar_name__</b> está agendado par
 
 Enviaremos a você um link de convite para o webinar uma hora antes do início do webinar.
 
-A entrada no webinar será possível __before_start_time__ minutos antes do seu início
+A entrada no webinar será possível <b>__before_start_time__</b> minutos antes do seu início
 
 Vejo você no webinar!

@@ -1,5 +1,5 @@
 Danes ob <b>__webinar_date__</b> naj bi se začel webinar <b>__webinar_name__</b>. Predlagam, da vstopite v sobo webinarjev, da se prepričate, da ste pripravljeni na sodelovanje.
 
-Vstop na webinar bo možen __before_start_time__ minut pred njegovim začetkom
+Vstop na webinar bo možen <b>__before_start_time__</b> minut pred njegovim začetkom
 
 <a href="__link_guest__">Vaša povezava za prijavo</a>

@@ -2,8 +2,8 @@ On <b>__webinar_date__</b>, the <b>__webinar_name__</b> webinar is scheduled to 
 
 <a href="__link_guest__">Sign in to the webinar</a>
 
-We'll send you a webinar invitation link an hour before the webinar starts.
+We will send you a webinar invitation link an hour before the webinar starts.
 
-The entrance is opening at __before_start_time__ minutes before beginning.
+The entrance is opening at <b>__before_start_time__</b> minutes before beginning.
 
-See you at the webinar!
+<b>See you at the webinar!</b>
