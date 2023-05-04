@@ -1,9 +1,10 @@
+–––
 Am <b>__webinar_date__</b> soll das Webinar <b>__webinar_name__</b> beginnen.
 
-<a href="__link_guest__">Ihr persönlicher Webinar-Link</a>
+<a href="__link_guest__">Webinar beitreten</a>
 
-Wir senden Ihnen eine Stunde vor Beginn des Webinars einen Link zur Webinar-Einladung.
+Wir werden Ihnen einen Webinar-Einladungslink eine Stunde vor Beginn des Webinars zur Verfügung stellen.
 
-Der Eingang öffnet sich bei <b>__before_start_time__</b> Minuten vor dem Anfang
+Bitte beachten Sie, dass der Einlass <b>__before_start_time__</b> Minuten vor Beginn des Webinars geöffnet wird. Wir empfehlen außerdem, Ihre Ausrüstung zu testen und Ihre Ton- und Videoeinstellungen im Voraus zu überprüfen, um während der Sitzung technische Schwierigkeiten zu vermeiden.
 
-Wir sehen uns beim Webinar!
+<b>Wir freuen uns sehr, Sie bei diesem Ereignis dabei zu haben!</b>
