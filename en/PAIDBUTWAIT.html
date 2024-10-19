@@ -1,77 +1,55 @@
 <!-- Theme: Your payment was not successful -->
-<center>
-	<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse!important">
-		<tr>
-			<td align="center" valign="top" style="border-top:4px solid #BBBBBB;padding:20px">
-				<table border="0" cellpadding="0" cellspacing="0" style="max-width:600px;min-width:200px;width:100%;border-collapse:collapse!important;border-radius:20px!important;background-color:#EEEEEE">
-					<!-- -->
-					<tr>
-						<td align="center" valign="top">
-							<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse!important">
-								<tr>
-									<td valign="top">
-										<img src="__banner__" style="max-width:600px;width:100%;display:block;border-top-left-radius:20px!important;border-top-right-radius:20px!important;" alt="Platform for webinars MyOwnConference"/>
-									</td>
-								</tr>
-							</table>
-						</td>
-					</tr>
-					<!-- -->
-					<tr>
-						<td align="center" valign="top">
-							<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse!important">
-								<tr>
-									<td valign="top" style="color:#505050;font-size:15px;font-family:Helvetica,Arial,sans-serif;line-height:150%;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;text-align:left">
-										<h1 style="color:#444444!important;display:block;font-size:26px;font-family:Helvetica,Arial,sans-serif;font-style:normal;font-weight:bold;line-height:100%;margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;text-align:left">
-											Hello __name__!
-										</h1>
-										<br>
-										A payment system declined your payment. For this reason, you will not receive the entrance ticket to the webinar. Try to pay again by clicking on the link below. If you get the same error, please be sure you have enough funds on the payment card and Internet payments are allowed by your bank.
-										<br>
-										<br>
-										<br>
-										<table border="0" cellpadding="0" cellspacing="0" width="100%">
-											<tr>
-												<td valign="top">
-													<center>
-														<a target="_blank" rel="noopener" href="__link_guest__" style="display:inline-block;white-space:nowrap;margin-top:15px;background-color:#337ab7;color:#FFFFFF!important;text-decoration:none!important; padding-bottom:10px;padding-left:20px; padding-right:20px;padding-top:10px;border-radius:10px;margin-left:5px;margin-right:5px">
-															<b>Join the webinar</b>
-														</a>
-													</center>
-												</td>
-											</tr>
-										</table>
-										<br>
-										<br>
-										<b>We're excited to have you join us for this event!</b>
-										<br>
-									</td>
-								</tr>
-							</table>
-						</td>
-					</tr>
-					<!-- -->
-					<tr>
-						<td align="center" valign="top">
-							<table border="0" cellpadding="0" cellspacing="0" width="100%" style="color:#505050;font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:150%;padding-top:30px;padding-right:20px;padding-bottom:30px;padding-left:20px;text-align:left;border-top:1px solid #FFFFFF">
-								<tr>
-									<td valign="top" style="padding-top:0;font-size:15px;font-family:Helvetica,Arial,sans-serif">
-										__footer__
-										<br><br>
-									</td>
-								</tr>
-							</table>
-						</td>
-					</tr>
-					<!-- -->
-				</table>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" style="padding-top:0;font-size:12px;font-family:Helvetica,Arial,sans-serif">
-				<a target="_blank" rel="noopener" href="__telegram_link__" style="color:#606060;font-weight:100!important">Join in Telegram</a> &middot; <a target="_blank" rel="noopener" href="__unsubscribe_link__" style="color:#606060;font-weight:100!important">Unsubscribe</a>
-				<br><br>
-			</td>
-		</tr>
-	</table>
-</center>
+<style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');</style>
+<table width="100%" bgcolor="#f9f9f9" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-family: Montserrat, Helvetica, Arial, sans-serif; margin: 0; padding: 0;">
+  <tr>
+    <td>
+      <table align="center" width="600" cellpadding="0" cellspacing="0" style="background-color: #ffffff; margin: 20px auto; border-radius: 15px; overflow: hidden;">
+        <!-- header -->
+        <tr>
+          <td style="background-color: #0052ff; color: #ffffff; padding: 20px; text-align: center;">
+            <img src="__banner__" alt="MyOwnConference" style="max-width: 180px; height: auto; border-top-left-radius: 15px!important; border-top-right-radius: 15px!important;">
+          </td>
+        </tr>
+
+        <!-- content -->
+        <tr>
+          <td style="padding: 40px; color: #333333;">
+            <h1 style="font-size: 24px; margin-bottom: 20px; color: #0052ff;">Hello __name__,</h1>
+            <p style="font-size: 16px; line-height: 1.6;">
+              We regret to inform you that your recent payment was not successful. As a result, we were unable to process your registration for the webinar.
+            </p>
+            <p style="font-size: 16px; line-height: 1.6;">
+              Please try to complete your payment again by clicking the button below. If the issue persists, please ensure that your payment card has sufficient funds and that internet transactions are allowed by your bank.
+            </p>
+            <p style="text-align: center; margin: 30px 0;">
+              <a href="__payment_link__" target="_blank" style="display: inline-block; padding: 15px 30px; background-color: #dc3545; color: #ffffff; text-decoration: none; border-radius: 15px; font-size: 16px;">
+                Retry Payment
+              </a>
+            </p>
+            <p style="font-size: 16px; line-height: 1.6;">
+              We hope to have you join us for this event.
+            </p>
+            <p style="font-size: 16px; line-height: 1.6;">
+              __footer__
+            </p>
+          </td>
+        </tr>
+
+        <!-- footer -->
+        <tr>
+          <td style="background-color: #f0f0f0; padding: 20px; text-align: center; font-size: 12px; color: #888888;">
+            &copy; <a href="https://myownconference.com/" target="_blank" style="color: #888888; text-decoration: none;">MyOwnConference</a>. All rights reserved &bull; 
+            <a href="https://myownconference.com/privacy-policy/" target="_blank" style="color: #888888; text-decoration: none;">Privacy policy</a> &bull; 
+            <a href="https://myownconference.com/gdpr/" target="_blank" style="color: #888888; text-decoration: none;">GDPR</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding-top: 10px; padding-bottom: 40px; font-size: 12px; color: #606060;">
+      <a href="__telegram_link__" target="_blank" style="color: #0052ff; text-decoration: none;">Join us on Telegram</a> &bull; 
+      <a href="__unsubscribe_link__" target="_blank" style="color: #0052ff; text-decoration: none;">Unsubscribe</a>
+    </td>
+  </tr>
+</table>

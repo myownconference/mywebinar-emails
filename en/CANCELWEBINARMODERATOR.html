@@ -1,51 +1,47 @@
 <!-- Theme: The webinar has been cancelled -->
-<center>
-	<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse!important">
-		<tr>
-			<td align="center" valign="top" style="border-top:4px solid #BBBBBB;padding:20px">
-				<table border="0" cellpadding="0" cellspacing="0" style="max-width:600px;min-width:200px;width:100%;border-collapse:collapse!important;border-radius:20px!important;background-color:#EEEEEE">
-					<!-- -->
-					<tr>
-						<td align="center" valign="top">
-							<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse!important">
-								<tr>
-									<td valign="top" style="color:#505050;font-size:15px;font-family:Helvetica,Arial,sans-serif;line-height:150%;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;text-align:left">
-										<h1 style="color:#444444!important;display:block;font-size:26px;font-family:Helvetica,Arial,sans-serif;font-style:normal;font-weight:bold;line-height:100%;margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;text-align:left">
-											Hello __name__!
-										</h1>
-										<br>
-										Webinar <b>__webinar_name__</b> that was scheduled for <b>__webinar_date__</b> has been cancelled.
-										<br>
-										<br>
-										We apologize for any inconvenience caused by the cancellation. We will keep you informed about the rescheduling of the webinar, and notify you as soon as a new date is set. Please stay tuned for updates.
-										<br>
-									</td>
-								</tr>
-							</table>
-						</td>
-					</tr>
-					<!-- -->
-					<tr>
-						<td align="center" valign="top">
-							<table border="0" cellpadding="0" cellspacing="0" width="100%" style="color:#505050;font-size:13px;font-family:Helvetica,Arial,sans-serif;line-height:150%;padding-top:30px;padding-right:20px;padding-bottom:30px;padding-left:20px;text-align:left;border-top:1px solid #FFFFFF">
-								<tr>
-									<td valign="top" style="padding-top:0;font-size:15px;font-family:Helvetica,Arial,sans-serif">
-										<b class="mail-area">Kind regards,<br>MyOwnConference Team</b>
-										<br><br>
-									</td>
-								</tr>
-							</table>
-						</td>
-					</tr>
-					<!-- -->
-				</table>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" style="padding-top:0;font-size:12px;font-family:Helvetica,Arial,sans-serif">
-				<a target="_blank" rel="noopener" href="__mtelegram_link__" style="color:#606060;font-weight:100!important">Join in Telegram</a> &middot; <a target="_blank" rel="noopener" href="__unsubscribe_link__" style="color:#606060;font-weight:100!important">Unsubscribe</a>
-				<br><br>
-			</td>
-		</tr>
-	</table>
-</center>
+<style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');</style>
+<table width="100%" bgcolor="#f9f9f9" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-family: Montserrat, Helvetica, Arial, sans-serif; margin: 0; padding: 0;">
+  <tr>
+    <td>
+      <table align="center" width="600" cellpadding="0" cellspacing="0" style="background-color: #ffffff; margin: 20px auto; border-radius: 15px; overflow: hidden;">
+        <!-- header -->
+        <tr>
+          <td style="background-color: #0052ff; color: #ffffff; padding: 20px; text-align: center;">
+            <img src="__banner__" alt="MyOwnConference" style="max-width: 180px; height: auto; border-top-left-radius: 15px!important; border-top-right-radius: 15px!important;">
+          </td>
+        </tr>
+
+        <!-- content -->
+        <tr>
+          <td style="padding: 40px; color: #333333;">
+            <h1 style="font-size: 24px; margin-bottom: 20px; color: #0052ff;">Hello __name__,</h1>
+            <p style="font-size: 16px; line-height: 1.6;">
+              We regret to inform you that the webinar <strong>__webinar_name__</strong> scheduled for <strong>__webinar_date__</strong> has been canceled.
+            </p>
+            <p style="font-size: 16px; line-height: 1.6;">
+              We apologize for any inconvenience this may cause. We will keep you updated about the rescheduling of the webinar and will notify you as soon as a new date is set. Please stay tuned for further updates.
+            </p>
+            <p style="font-size: 16px; line-height: 1.6;">
+              Best regards,<br>
+              <strong>The MyOwnConference Team</strong>
+            </p>
+          </td>
+        </tr>
+
+        <!-- footer -->
+        <tr>
+          <td style="background-color: #f0f0f0; padding: 20px; text-align: center; font-size: 12px; color: #888888;">
+            &copy; <a href="https://myownconference.com/" target="_blank" style="color: #888888; text-decoration: none;">MyOwnConference</a>. All rights reserved &bull; 
+            <a href="https://myownconference.com/privacy-policy/" target="_blank" style="color: #888888; text-decoration: none;">Privacy policy</a> &bull; 
+            <a href="https://myownconference.com/gdpr/" target="_blank" style="color: #888888; text-decoration: none;">GDPR</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding-top: 10px; padding-bottom: 40px; font-size: 12px; color: #606060;">
+      <a href="__unsubscribe_link__" target="_blank" style="color: #0052ff; text-decoration: none;">Unsubscribe</a>
+    </td>
+  </tr>
+</table>
